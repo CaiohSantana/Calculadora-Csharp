@@ -1,0 +1,15 @@
+C:\Users\caiod\Desktop\Calculadora-Csharp\bin\Debug\net8.0\CalculadoraC#.exe
+C:\Users\caiod\Desktop\Calculadora-Csharp\bin\Debug\net8.0\CalculadoraC#.deps.json
+C:\Users\caiod\Desktop\Calculadora-Csharp\bin\Debug\net8.0\CalculadoraC#.runtimeconfig.json
+C:\Users\caiod\Desktop\Calculadora-Csharp\bin\Debug\net8.0\CalculadoraC#.dll
+C:\Users\caiod\Desktop\Calculadora-Csharp\bin\Debug\net8.0\CalculadoraC#.pdb
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.AssemblyInfoInputs.cache
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.AssemblyInfo.cs
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.sourcelink.json
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.dll
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\refint\CalculadoraC#.dll
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.pdb
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\CalculadoraC#.genruntimeconfig.cache
+C:\Users\caiod\Desktop\Calculadora-Csharp\obj\Debug\net8.0\ref\CalculadoraC#.dll
